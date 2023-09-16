@@ -1,0 +1,71 @@
+.hero_section{
+    background: #F0FFF0;
+
+}
+
+.meno_text{
+    text-transform: capitalize;
+}
+
+.hero_section{
+
+}
+.hero_section h5{
+    color: #FD511A;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+
+}
+.hero_section h1{
+    color: #000000;
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 70px;
+    font-family: Poppins;
+}
+.hero_section h1 span{
+    color: #21B573;
+    font-family: Poppins;
+}
+.hero_section p{
+    color: #000000;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: Poppins;
+}
+
+.btn_custom{
+    background: #21b575;
+    border-radius: 20px;
+    color: #ffff;
+    padding: 0;
+    padding: 8px 20px;
+    text-transform: capitalize
+}
+.btn_custom :hover{
+    background: #21B573;
+    cursor: all-scroll;
+
+}
+.hegiht{
+    min-height: 75vh;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
